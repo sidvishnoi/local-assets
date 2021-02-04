@@ -1,0 +1,12 @@
+{
+	"name": "local-assets",
+	"version": "0.0.1",
+	"repository": "git@github.com:sidvishnoi/local-assets.git",
+	"license": "MIT",
+	"author": "Sid Vishnoi <sidvishnoi8@gmail.com> (https://sidvishnoi.github.io/)",
+	"main": "index.js",
+	"bin": "cli.js",
+	"dependencies": {
+		"subresources": "https://github.com/sidvishnoi/subresources"
+	}
+}

@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // @ts-check
 const path = require("path");
 const { existsSync } = require("fs");

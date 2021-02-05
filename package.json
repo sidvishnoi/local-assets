@@ -7,6 +7,6 @@
 	"main": "index.js",
 	"bin": "cli.js",
 	"dependencies": {
-		"subresources": "https://github.com/sidvishnoi/subresources"
+		"subresources": "^1.0.0"
 	}
 }

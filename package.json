@@ -6,6 +6,11 @@
 	"author": "Sid Vishnoi <sidvishnoi8@gmail.com> (https://sidvishnoi.github.io/)",
 	"main": "index.js",
 	"bin": "cli.js",
+	"files": [
+		"index.js",
+		"cli.js",
+		"utils.js"
+	],
 	"dependencies": {
 		"subresources": "^1.0.0"
 	}
